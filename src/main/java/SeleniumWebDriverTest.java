@@ -1,8 +1,3 @@
-/*Liz Mahoney
- * 11/6/17
- * SeleniumWebDriver.java
- */
-
 import org.junit.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
